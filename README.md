@@ -43,11 +43,10 @@ npm install
 
 
 ### Installation
-  # Clone the repository
+  1.Clone the repository
  git clone https://github.com/your-username/fudfire.git
-
-# Navigate to the project folder
-cd fudfire
+ 2.Navigate to the project folder
+ 3.cd fudfire
 
 # Install dependencies
 npm install
@@ -70,13 +69,11 @@ npm install
 
 ### Installation
 
-# Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/assessment-croplist.git
-
-# Navigate to the project folder
+2. Navigate to the project folder
 cd assessment-croplist
-
-# Install dependencies
+3. Install dependencies
 npm install
 
 
