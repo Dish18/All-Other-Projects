@@ -17,11 +17,11 @@ Welcome to the README for my collection of projects. Below, you'll find informat
 
 
 ### Installation
-# Clone the repository
+1. Clone the repository
 git clone https://github.com/your-username/codeandpen.git
-# Navigate to the project folder
+2. Navigate to the project folder
 cd codeandpen
-# Install dependencies
+3. Install dependencies
 npm install
 
 
